@@ -1,0 +1,2 @@
+solve.exe ./dataset2/rule1.txt ./dataset2/packet5.txt
+将会在和solve.exe的目录下生成一个ans.txt文件，就是答案
